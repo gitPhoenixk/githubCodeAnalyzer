@@ -26,7 +26,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-4. Запустите веб сервис
+4. Запустите веб сервис  
    Бекенд:
    ```bash
    uvicorn main:app --reload
