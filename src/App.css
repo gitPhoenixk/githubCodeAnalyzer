@@ -1,0 +1,38 @@
+#search {
+    width: 50vh;
+    height: 20px;
+    border-radius: 12px;
+}
+
+#repo-data {
+    display: flex;
+}
+
+#navbar {
+    margin: 15px;
+    font-size: 15px;
+    line-height: 10px;
+    text-align: left;
+    border: 2px solid var(--border);
+    color: #bbbccd;
+    width: fit-content;
+    height: fit-content;
+}
+
+#filetext:active {
+    user-select: none;
+    color: #aa3bff;
+}
+
+#code {
+    text-align: left;
+}
+
+#name {
+    text-align: center;
+    color: var(--text);
+}
+
+#main {
+
+}
